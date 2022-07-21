@@ -18,6 +18,13 @@
   </tr>
 </table>
 
+## Galeria
+
+![image](https://user-images.githubusercontent.com/59092579/180304704-01c792b5-4970-414f-9834-a8c6bf29b256.png)
+
+![image](https://user-images.githubusercontent.com/59092579/180304975-5460b657-f502-4d4f-ad58-fcf6e0d7bc58.png)
+
+
 ## Como Rodar o Projeto?
 
 1) `Faça o Download do Projeto`
