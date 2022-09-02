@@ -8,7 +8,7 @@
 
 <strong>O Projeto é um simples(porém trabalhoso) jogo da memória usando apenas HTML,CSS e JS. Tive bastante dificuldade de entender várias coisas, entretando no fim consegui resolver esse desafio próprio</strong>
 
-## Tecnologia Usada:
+## Tecnologias Usadas:
 
 <table>
   <tr>
